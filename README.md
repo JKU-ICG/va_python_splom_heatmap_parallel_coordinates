@@ -6,7 +6,8 @@ You can either work online, via MyBinder, or locally.
 
 ### MyBinder
 
-Go to: [add mybinder link]
+Go to: https://mybinder.org/v2/gh/JKU-ICG/va_python_splom_heatmap_parallel_coordinates/main?urlpath=lab
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JKU-ICG/va_python_splom_heatmap_parallel_coordinates/main?urlpath=lab)
  and open the *template.ipynb* notebook.
 
 ### Local
